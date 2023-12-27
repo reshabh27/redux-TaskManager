@@ -1,0 +1,31 @@
+
+.inputContainer{
+    margin: 40px auto;
+    width: 80%;
+    border-radius: 40px;
+}
+
+.headertext {
+    border-bottom: 2px solid black;
+    width: fit-content;
+    margin: auto;
+}
+
+
+
+.singleInputContainer{
+    /* text-align: left; */
+    margin: 20px auto;
+}
+
+#task, #desc, #expiresAt{
+    margin-top: 10px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.singleInputContainer > input {
+    box-shadow: 0 0 5pt 0.5pt #858080;
+    border-color: aliceblue;
+}

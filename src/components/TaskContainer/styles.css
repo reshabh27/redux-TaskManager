@@ -1,0 +1,28 @@
+
+
+
+.taskcontainer{
+    width: 80%;
+    margin: 40px auto;
+}
+
+
+
+.singleTask{
+    /* width: auto;
+    border: 2px solid black; */
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 10px;
+}
+
+
+.details {
+    text-align: left;
+}
+
+.manipulateBtns {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
